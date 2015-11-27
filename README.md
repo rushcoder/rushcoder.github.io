@@ -1,2 +1,0 @@
-# rushcoder.github.io
-blog
